@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKG_Core", "SKG_Core\SKG_Core.csproj", "{537D17C6-6656-401B-BBF8-12E3575B1971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKG_Store", "SKG_Store\SKG_Store.csproj", "{CA0E1840-37F1-4C48-AA48-C8D1D1C87802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKG_API", "SKG_API\SKG_API.csproj", "{D9767057-3ABD-4581-8A6F-4A4C02E85801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537D17C6-6656-401B-BBF8-12E3575B1971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537D17C6-6656-401B-BBF8-12E3575B1971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537D17C6-6656-401B-BBF8-12E3575B1971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537D17C6-6656-401B-BBF8-12E3575B1971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0E1840-37F1-4C48-AA48-C8D1D1C87802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0E1840-37F1-4C48-AA48-C8D1D1C87802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0E1840-37F1-4C48-AA48-C8D1D1C87802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0E1840-37F1-4C48-AA48-C8D1D1C87802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9767057-3ABD-4581-8A6F-4A4C02E85801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9767057-3ABD-4581-8A6F-4A4C02E85801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9767057-3ABD-4581-8A6F-4A4C02E85801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9767057-3ABD-4581-8A6F-4A4C02E85801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72283696-BF87-46AC-81A7-3DA53C82725E}
+	EndGlobalSection
+EndGlobal
